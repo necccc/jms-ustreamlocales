@@ -1,0 +1,2 @@
+{ "name" : "jms-ustreamlocales",
+	"main" : "./ustream-locale.js" }
